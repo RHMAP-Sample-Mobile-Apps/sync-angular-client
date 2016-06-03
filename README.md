@@ -11,7 +11,7 @@ The associated Cloud Application for this can be found at [sync-angular-cloud](h
 Assuming you have node.js and npm installed, you can run this application locally by using the following commands:
 
 ```
-cd fh-rest-client-template
+cd sync-angular-client
 npm install
 npm start
 ```
