@@ -1,6 +1,7 @@
 {
   "name": "fh-rest-client-template",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "A sample client that can connect to a Cloud using FH.Rest",
   "scripts": {
     "start": "ionic serve -o /?url=http://127.0.0.1:8001"
